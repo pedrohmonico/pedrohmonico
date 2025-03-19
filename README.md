@@ -10,17 +10,13 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: VSCode, MongoDB, PostgreSQL
-</p>
-
-<p align="left">
   💌 Sinta-se livre pra entrar em contato comigo pelos links abaixo: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="pedrohmonico@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/pedrohenriquemonico/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   </a>
 </p>
